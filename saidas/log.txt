@@ -1,0 +1,24 @@
+ERRO INSERECONTRIBUICAO: a contribuicao k.txt ja existe na pagina kkk.
+
+ERRO INSERECONTRIBUICAO: a contribuicao k.txt ja existe na pagina kkk.
+
+ERRO RETIRAPAGINA: a pagina jjj nao existe.
+
+HA CAMINHO DA PAGINA abc PARA kkk
+
+HA CAMINHO DA PAGINA def PARA kkk
+
+HA CAMINHO DA PAGINA ghi PARA kkk
+
+HA CAMINHO DA PAGINA abc PARA def
+
+HA CAMINHO DA PAGINA abc PARA ghi
+
+NAO HA CAMINHO DA PAGINA ghi PARA abc
+
+ERRO CAMINHO:a pagina kkk nao existe
+
+ERRO CAMINHO:a pagina kkk nao existe
+
+ERRO CAMINHO:a pagina kkk nao existe
+
